@@ -1,0 +1,20 @@
+{
+  "namespace": "models",
+  "type": "record",
+  "name": "User",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "int"
+    },
+    {
+      "name": "panNumber",
+      "type": "string"
+    }
+  ]
+
+}
